@@ -5,3 +5,4 @@
 - Use of SOLID principle
 - Proper abstractions
 - Modular Program with proper packaging.
+- Packages created are Models , DAO , Service , Repo
