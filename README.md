@@ -6,3 +6,10 @@
 - Proper abstractions
 - Modular Program with proper packaging.
 - Packages created are Models , DAO , Service , Repo
+
+## Commands
+- sbt run
+- sbt clean compile
+- sbt test 
+- sbt clean coverage test coverageReport
+
